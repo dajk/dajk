@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏼
 
 I am a code enthusiast, passionate about web technologies.
 My favorite ones right now are: Typescript, React.js (Next.js), Node.js and Serverless.
