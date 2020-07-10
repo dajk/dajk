@@ -1,7 +1,6 @@
-### Hi there 👋🏼
+### Hi there 👋
 
-I am a code enthusiast, passionate about web technologies.
-My favorite ones right now are: Typescript, React.js (Next.js), Node.js and Serverless.
+I am a code enthusiast, passionate about web technologies. My favorite ones right now are: Typescript, React.js (Next.js), Node.js and Serverless.
 
 <!--
 **dajk/dajk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
