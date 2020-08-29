@@ -2,7 +2,7 @@
 
 I am a code enthusiast, passionate about web technologies. My favorite ones right now are: Typescript, React.js (Next.js), Node.js and Serverless.
 
-![dajk's github stats](https://github-readme-stats.vercel.app/api?username=dajk)
+[![Radovan Hajdukovic's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dajk)](https://github-readme-stats.vercel.app/api?username=dajk)
 
 <!--
 **dajk/dajk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
