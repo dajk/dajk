@@ -2,7 +2,7 @@
 
 I am a code enthusiast, passionate about web technologies and building great products.
 
-[![Radovan Hajdukovic's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dajk)](https://github-readme-stats.vercel.app/api?username=dajk)
+[![Radovan Hajdukovic's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dajk&theme=radical&show_icons=true)](https://github-readme-stats.vercel.app/api?username=dajk)
 
 <!--
 **dajk/dajk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
